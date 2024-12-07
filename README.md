@@ -1,0 +1,2 @@
+# NiftyIndicesScrapper
+Nifty Indices Scrapper
